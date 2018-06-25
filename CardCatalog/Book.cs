@@ -1,15 +1,22 @@
-﻿namespace CardCatalog
+using System;
+
+namespace Card
 {
-    public class Book
+    [Serializable]
+    class Book
     {
-        public string Title { get; set; }
-        public string Author { get; set; }
-        public string ISBN { get; set; }
-        public Book(string title, string author, string isbn)
+
+        public string title { get; set; }
+
+        public string author { get; set; }
+
+        public string ISBN { get; set;  }
+         
+        public Book(string _title, string _author, string _isbn)
         {
-            Title = title;
-            Author = author;
-            ISBN = isbn;
+            title = _title;
+            author = _author;
+            ISBN = _isbn;
         }
     }
 }
