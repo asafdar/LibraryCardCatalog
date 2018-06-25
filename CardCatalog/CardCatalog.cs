@@ -23,6 +23,7 @@ namespace Card
 
         public void ListBooks()
         {
+            Console.Clear();
             foreach (Book book in books){
                 Console.WriteLine("Author: " + book.author + ", Title: " + book.title + ", ISBN: " + book.ISBN);
             }
@@ -30,6 +31,7 @@ namespace Card
 
         public void AddBook(string author, string title, string ISBN)
         {
+            Console.Clear();
             Book newBook = new Book(author, title, ISBN);
             books.Add(newBook);
         }
