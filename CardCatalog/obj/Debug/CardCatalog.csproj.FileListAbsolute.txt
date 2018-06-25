@@ -1,0 +1,7 @@
+c:\users\addison\source\repos\Card Catalog\CardCatalog\bin\Debug\CardCatalog.exe.config
+c:\users\addison\source\repos\Card Catalog\CardCatalog\bin\Debug\CardCatalog.exe
+c:\users\addison\source\repos\Card Catalog\CardCatalog\bin\Debug\CardCatalog.pdb
+c:\users\addison\source\repos\Card Catalog\CardCatalog\obj\Debug\CardCatalog.csprojAssemblyReference.cache
+c:\users\addison\source\repos\Card Catalog\CardCatalog\obj\Debug\CardCatalog.csproj.CoreCompileInputs.cache
+c:\users\addison\source\repos\Card Catalog\CardCatalog\obj\Debug\CardCatalog.exe
+c:\users\addison\source\repos\Card Catalog\CardCatalog\obj\Debug\CardCatalog.pdb
