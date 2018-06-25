@@ -24,7 +24,7 @@ namespace Card
         public void ListBooks()
         {
             foreach (Book book in books){
-                Console.WriteLine("Author: " + book.author + ", Title: " + book.title);
+                Console.WriteLine("Author: " + book.author + ", Title: " + book.title + ", ISBN: " + book.ISBN);
             }
         }
 
